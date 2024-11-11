@@ -1,5 +1,5 @@
-# RC-IT
-Robot Controller - Intelligence Terminal
+# RCIT
+Robot Controller  Intelligence Terminal
 
 Stage of Thinking
 
