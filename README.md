@@ -1,5 +1,5 @@
 # RCIT
-Robot Controller  Intelligence Terminal
+Floyd-Machine
 
 Stage of Thinking
 
