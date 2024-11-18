@@ -1,4 +1,4 @@
-# RCIT
+# Floyd Machine
 Floyd-Machine
 
 <img src="readme/Captura de pantalla 2024-11-17 234051.png" alt="image">
