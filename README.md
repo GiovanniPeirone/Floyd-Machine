@@ -3,7 +3,6 @@ Floyd-Machine
 
 <img src="readme/Captura de pantalla 2024-11-17 234051.png" alt="image">
 
-Stage of Thinking
 
 # DOCS
 The idea is the next, i got a Terminal or like a tower that controls with IA through an antenna. The point is that the robots can be adaptable to every situation.
@@ -25,3 +24,5 @@ Big Step 2:
 	
  	1 - start with the assembling of the robots and the terminal 
 
+
+#Code Docs
