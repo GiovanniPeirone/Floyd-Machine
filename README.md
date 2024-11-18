@@ -13,15 +13,15 @@ Later it will integrated with JarvisIA: https://github.com/Jordan-Iralde/ProBest
 
 Big Step 1:
 
-1 - Virtual World i will train and prove the system after make the real one
+	1 - Virtual World i will train and prove the system after make the real one
 	
- 2 - Make basic function to control the robots
+ 	2 - Make basic function to control the robots
 	
- 3 - graph a basic design of the real robot
+ 	3 - graph a basic design of the real robot
 	
- 4 - plan the circuit design and terminal system
+ 	4 - plan the circuit design and terminal system
 
 Big Step 2:
 	
- 1 - start with the assembling of the robots and the terminal 
+ 	1 - start with the assembling of the robots and the terminal 
 
