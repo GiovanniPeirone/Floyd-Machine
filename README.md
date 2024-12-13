@@ -22,7 +22,7 @@ Floyd-Machine is a centralized control system designed to coordinate and optimiz
 - **Actions**:
   - **Selection of Key Libraries**:
     - 🟢 **OpenGL**: 3D graphics rendering.
-    - 🟢 **GLAD**: OpenGl Manager.
+      - 🟢 *GLAD*
     - 🟢 **Arduino**: To make the robots
   - **Code Structuring**:
     - Create a modular system for future scalability.
